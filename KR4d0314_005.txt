@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 清獻集
-#+DATE: 2020-03-31 11:34:39.574691
+#+DATE: 2020-03-31 11:34:39.714313
 #+PROPERTY: ID KR4d0314
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR4d0314_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -90,7 +90,7 @@
 一般情緒怕春寒¶
 ¶
 <pb:KR4d0314_WYG_005-4b>¶
-　　日烘薄霧開柔陌風&KR0482;遊絲著柳條語燕啼鶯自撩亂¶
+　　日烘薄霧開柔陌風罥遊絲著柳條語燕啼鶯自撩亂¶
 驚人殘夢是春朝¶
 ¶
 　　不與祠嶽再呈通判沈侯¶
